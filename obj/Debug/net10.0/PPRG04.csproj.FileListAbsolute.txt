@@ -1,0 +1,14 @@
+C:\Users\s37360\PPRG04\bin\Debug\net10.0\PPRG04.exe
+C:\Users\s37360\PPRG04\bin\Debug\net10.0\PPRG04.deps.json
+C:\Users\s37360\PPRG04\bin\Debug\net10.0\PPRG04.runtimeconfig.json
+C:\Users\s37360\PPRG04\bin\Debug\net10.0\PPRG04.dll
+C:\Users\s37360\PPRG04\bin\Debug\net10.0\PPRG04.pdb
+C:\Users\s37360\PPRG04\obj\Debug\net10.0\PPRG04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37360\PPRG04\obj\Debug\net10.0\PPRG04.AssemblyInfoInputs.cache
+C:\Users\s37360\PPRG04\obj\Debug\net10.0\PPRG04.AssemblyInfo.cs
+C:\Users\s37360\PPRG04\obj\Debug\net10.0\PPRG04.csproj.CoreCompileInputs.cache
+C:\Users\s37360\PPRG04\obj\Debug\net10.0\PPRG04.dll
+C:\Users\s37360\PPRG04\obj\Debug\net10.0\refint\PPRG04.dll
+C:\Users\s37360\PPRG04\obj\Debug\net10.0\PPRG04.pdb
+C:\Users\s37360\PPRG04\obj\Debug\net10.0\PPRG04.genruntimeconfig.cache
+C:\Users\s37360\PPRG04\obj\Debug\net10.0\ref\PPRG04.dll
